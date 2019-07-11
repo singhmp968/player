@@ -1,4 +1,7 @@
 a,b=map(int,input().split())
+
+input()
+
 li=list(map(int,input().split()))[:a]
 addli=list(map(int,input().split()))[:b]
 result=[]
